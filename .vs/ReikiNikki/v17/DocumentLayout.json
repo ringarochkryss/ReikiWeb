@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\Admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\Admin\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\static\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\static\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\new_product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\Admin\\new_product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 417,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\.gitignore",
+              "RelativeDocumentMoniker": "ReikiNikki\\.gitignore",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\.gitignore",
+              "RelativeToolTip": "ReikiNikki\\.gitignore",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T19:46:00.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\index.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\index.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\index.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:32:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "layout.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\layout.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\layout.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\layout.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\layout.html",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:58:25.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "product.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\product.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\product.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\product.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\product.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:28:29.972Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "__init__.py (ReikiNikki)",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\__init__.py",
+              "RelativeDocumentMoniker": "ReikiNikki\\__init__.py",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\__init__.py",
+              "RelativeToolTip": "ReikiNikki\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-20T23:36:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\dashboard.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\Admin\\dashboard.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\dashboard.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\Admin\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:27:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\login.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\Admin\\login.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\login.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\Admin\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:26:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\views.py",
+              "RelativeDocumentMoniker": "ReikiNikki\\views.py",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\views.py",
+              "RelativeToolTip": "ReikiNikki\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-20T22:38:06.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\models.py",
+              "RelativeDocumentMoniker": "ReikiNikki\\models.py",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\models.py",
+              "RelativeToolTip": "ReikiNikki\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-20T23:11:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\static\\content\\site.css",
+              "RelativeDocumentMoniker": "ReikiNikki\\static\\content\\site.css",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\static\\content\\site.css",
+              "RelativeToolTip": "ReikiNikki\\static\\content\\site.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-22T15:00:37.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "new_product.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\new_product.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\Admin\\new_product.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\new_product.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\Admin\\new_product.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:27:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cart.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\cart.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\cart.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\cart.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\cart.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:28:40.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "checkout.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\checkout.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\checkout.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\checkout.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\checkout.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:28:55.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\about.html",
+              "RelativeDocumentMoniker": "ReikiNikki\\templates\\about.html",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\about.html",
+              "RelativeToolTip": "ReikiNikki\\templates\\about.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-20T23:30:50.347Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

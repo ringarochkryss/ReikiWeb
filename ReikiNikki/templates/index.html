@@ -1,0 +1,57 @@
+﻿{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="jumbotronb border-bottom-primary">
+    <h1 class="mt-5">Välkommen</h1>
+    <p class="lead">Reiki är en mjuk och intuitiv energimetod som hjälper kroppen att slappna av, återhämta sig och hitta balans. Här kan du boka behandlingar, fördjupa din kunskap och utforska verktyg som stöttar ditt välmående.</p>
+    <p><a href="" class="btn btn-primary btn-large">Läs mer &raquo;</a></p>
+</div>
+<br />
+
+<div class="row mt-5">
+
+    <div class="col-md-4 glass">
+        <h2>En stund bara för dig</h2>
+        <p>
+            En reikibehandling är en stilla och avslappnande upplevelse där du får möjlighet att landa, släppa stress och ge kroppen utrymme att återhämta sig.
+
+        <p><a href="{{ url_for('contact') }}" class="btn btn-primary btn-large">Kontakta mig &raquo;</a></p>
+        
+    </div>
+    <div class="col-md-4 glass">
+        <h2>Vad är Reiki?</h2>
+        <p>
+            Reiki är en japansk metod för avslappning och energibalans. Den bygger på idén att kroppen har en naturlig förmåga att läka och återställa harmoni — ibland behöver vi bara lite stöd för att komma dit.
+            Reiki används av många för att minska stress, öka närvaro och skapa en djupare känsla av välbefinnande.
+        </p>
+    </div>
+    <div class="col-md-4 glass">
+        <h2>För vem passar Reiki?</h2>
+        <p>Reiki passar dig som söker lugn, vill stärka din återhämtning eller är nyfiken på att utforska ditt inre på ett tryggt och mjukt sätt.</p>
+        <hr />
+    </div>
+    <br />
+    <div class="glass mt-5">
+        <h1 class="mt-5">Bli Medlem</h1>
+        <p>
+            Som medlem får du tillgång till guider, övningar, meditationer och fördjupande material som hjälper dig utveckla din intuition och förstå energiarbete på ett praktiskt och jordnära sätt.
+            Här hittar du allt från steg-för-steg-instruktioner till inspiration för din egen dagliga praktik.
+        </p>
+        <p><a href="" class="btn btn-primary btn-large">Läs mer &raquo;</a></p>
+    </div>
+</div>
+
+
+
+
+{% for product in products %}
+<div>
+    <img src="{{ product.image }}">
+    <h2>{{ product.title }}</h2>
+    <p>{{ product.price }} kr</p>
+    <a href="/product/{{ product.id }}">Visa</a>
+</div>
+{% endfor %}
+
+{% endblock %}
