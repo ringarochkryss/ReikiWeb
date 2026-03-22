@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\Admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\Admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\new_product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\templates\\Admin\\new_product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|solutionrelative:ReikiNikki\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FC307FC-985F-41CA-9D7D-3AF11B777FB9}|ReikiNikki.pyproj|C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,20 +61,26 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 417,
-          "SelectedChildIndex": 9,
+          "DockedHeight": 174,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T20:23:38.938Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -87,19 +89,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\.gitignore",
-              "RelativeDocumentMoniker": "ReikiNikki\\.gitignore",
-              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\.gitignore",
-              "RelativeToolTip": "ReikiNikki\\.gitignore",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-22T19:46:00.363Z",
-              "EditorCaption": ""
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-22T20:21:35.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\index.html",
               "RelativeDocumentMoniker": "ReikiNikki\\templates\\index.html",
@@ -107,8 +108,7 @@
               "RelativeToolTip": "ReikiNikki\\templates\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-20T23:32:31.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T23:32:31.525Z"
             },
             {
               "$type": "Document",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "product.html",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\product.html",
               "RelativeDocumentMoniker": "ReikiNikki\\templates\\product.html",
@@ -135,25 +135,8 @@
               "WhenOpened": "2026-03-20T23:28:29.972Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "__init__.py (ReikiNikki)",
-              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\__init__.py",
-              "RelativeDocumentMoniker": "ReikiNikki\\__init__.py",
-              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\__init__.py",
-              "RelativeToolTip": "ReikiNikki\\__init__.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-03-20T23:36:53.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "dashboard.html",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\Admin\\dashboard.html",
               "RelativeDocumentMoniker": "ReikiNikki\\templates\\Admin\\dashboard.html",
@@ -161,12 +144,7 @@
               "RelativeToolTip": "ReikiNikki\\templates\\Admin\\dashboard.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-20T23:27:12.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2026-03-20T23:27:12.594Z"
             },
             {
               "$type": "Document",
@@ -194,18 +172,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "models.py",
-              "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\models.py",
-              "RelativeDocumentMoniker": "ReikiNikki\\models.py",
-              "ToolTip": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\models.py",
-              "RelativeToolTip": "ReikiNikki\\models.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-03-20T23:11:48.186Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\static\\content\\site.css",
@@ -230,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "cart.html",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\cart.html",
               "RelativeDocumentMoniker": "ReikiNikki\\templates\\cart.html",
@@ -242,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "checkout.html",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\checkout.html",
               "RelativeDocumentMoniker": "ReikiNikki\\templates\\checkout.html",
@@ -254,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "about.html",
               "DocumentMoniker": "C:\\Users\\petra\\source\\repos\\ReikiNikki\\ReikiNikki\\templates\\about.html",
               "RelativeDocumentMoniker": "ReikiNikki\\templates\\about.html",
@@ -267,12 +233,24 @@
           ]
         },
         {
-          "DockedHeight": 65,
+          "DockedHeight": 308,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
